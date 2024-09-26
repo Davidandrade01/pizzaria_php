@@ -29,3 +29,9 @@
     </nav>
 
     </header>
+
+
+    <div class="alert alert-sucess">
+
+  <p>Pedido feito com sucesso!</p>
+    </div>
